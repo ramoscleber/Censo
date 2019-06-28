@@ -1,0 +1,444 @@
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.dll
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\LUIS ANTONIO O MAIA\Desktop\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+E:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.dll
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\bin\Debug\Npgsql.dll
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\ImportExportDadosCenso - Copia\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+F:\CENSO 2017\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\ImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\LUIS ANTONIO O MAIA\Desktop\BASE CONHECIMENTO CENSO\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojAssemblyReference.cache
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.cache
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CopyComplete
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+D:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojAssemblyReference.cache
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.cache
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CopyComplete
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+E:\CENSO 2017\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\mscorlib.dll
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Http.dll
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Http.xml
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\normidna.nlp
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\normnfc.nlp
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\normnfd.nlp
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\normnfkc.nlp
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\normnfkd.nlp
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\andre\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.Cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\netstandard.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.AppContext.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Specialized.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Console.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Data.Common.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Compression.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Pipes.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Expressions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Parallel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Queryable.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Http.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.NameResolution.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Ping.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Requests.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Security.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Sockets.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebSockets.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ObjectModel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.Reader.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.Writer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Handles.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Claims.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Principal.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.SecureString.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.Encoding.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Thread.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Timer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XPath.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Remotion.Linq.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Buffers.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Immutable.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Interactive.Async.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Memory.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ValueTuple.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Remotion.Linq.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Buffers.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Immutable.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Interactive.Async.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Memory.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ValueTuple.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojAssemblyReference.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe.config
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CopyComplete
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe.config
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.exe
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\ImportExportDadosCenso.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\netstandard.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.AppContext.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Specialized.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Console.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Data.Common.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Compression.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.Pipes.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Expressions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Parallel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Linq.Queryable.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Http.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.NameResolution.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Ping.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Requests.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Security.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.Sockets.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Net.WebSockets.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ObjectModel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.Reader.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Resources.Writer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Handles.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Claims.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.Principal.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Security.SecureString.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.Encoding.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Thread.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Timer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XPath.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Remotion.Linq.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Buffers.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Immutable.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Interactive.Async.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Memory.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ValueTuple.dll
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\Remotion.Linq.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Buffers.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Collections.Immutable.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Interactive.Async.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Memory.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\bin\Debug\System.ValueTuple.xml
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csprojAssemblyReference.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe.config
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Default.resources
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.Properties.Resources.resources
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.GenerateResource.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CoreCompileInputs.cache
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.csproj.CopyComplete
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.exe
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.pdb
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.CreateDB.resources
+C:\Users\UNIR\Desktop\Censo-2018\3 - Programa assistente\Versao 2019\SistemaImportExportDadosCenso\ImportExportDadosCenso\obj\Debug\ImportExportDadosCenso.PrincipalFrm.resources
